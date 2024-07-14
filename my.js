@@ -4,3 +4,4 @@ const dic = {
     age:"20"
 }
 console.log(dic.name);
+let bel = "try";
