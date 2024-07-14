@@ -5,3 +5,5 @@ const dic = {
 }
 console.log(dic.name);
 let bel = "try";
+const logo = [1,2,3];
+
