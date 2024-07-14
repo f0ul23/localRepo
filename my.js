@@ -4,3 +4,4 @@ const dic = {
     age:"20"
 }
 console.log(dic.name);
+const logo = [1,2,3]
